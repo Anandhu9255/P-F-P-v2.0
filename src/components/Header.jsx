@@ -16,7 +16,7 @@ function Header({ selectedMonth, setSelectedMonth, theme, toggleTheme }) {
           />
         </div>
         <button className="theme-toggle" onClick={toggleTheme}>
-          {theme === "dark" ? "☀️" : "🌙"}
+          {theme === "dark" ? "🌙" : "☀️"}
         </button>
       </div>
     </header>
