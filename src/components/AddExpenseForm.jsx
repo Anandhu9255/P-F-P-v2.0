@@ -107,6 +107,7 @@ function AddExpenseForm({
           <option value="Education">Education</option>
           <option value="School Fees">School Fees</option>
 
+          <option value="Items">Items</option>
           <option value="Others">Others</option>
         </select>
 
